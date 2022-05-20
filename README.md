@@ -5,14 +5,14 @@ Automated semantic segmentation of Tuberculosis (TB)-consistent lesions in chest
 
 # Process pipeline
 
-<div style="width: 500%; height: 500%">
-  
-  ![Process pipeline](figure_1.png)
-  
-</div>
-
-
 ![Process pipeline](figure_1.png)
+
+
+# Ensemble pipeline
+
+![Ensemble pipeline](figure_4a.png)
+
+![Stacking pipeline](figure_4b.png)
 
 
 # Requirements
