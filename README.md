@@ -17,22 +17,46 @@ Automated semantic segmentation of Tuberculosis (TB)-consistent lesions in chest
 
 # Requirements
 h5py==3.1.0
+
 imageio==2.11.1
+
 matplotlib==3.5.1
+
 numpy==1.19.5
+
 opencv_python==4.5.4.58
+
 pandas==1.3.4
+
 Pillow==9.1.1
+
 scikit_image==0.18.3
+
 scikit_learn==1.1.1
+
 scipy==1.7.2
+
 segmentation_models==1.0.1
+
 skimage==0.0
+
 tensorflow==2.6.2
+
 tqdm==4.62.3
+
 
 # Code description
 The python code unet_ensemble.py contains the following:
-Loading libraries; loading and creating data numpy arrays; preprocessing functions; loss functions; evaluation metrics; boundary uncertainty evaluation; model loading, compiling, and training; model inference; constructing ensembles using bitwise operations; constructing a stacking ensemble. 
+Loading libraries
+
+Loading and creating data numpy arrays
+
+Preprocessing functions
+
+Loss functions, evaluation metrics, boundary uncertainty evaluation
+
+Model loading, compiling, training and inference
+
+Constructing ensembles using bitwise operations and stacking. 
 
 
